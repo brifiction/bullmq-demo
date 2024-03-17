@@ -1,8 +1,5 @@
 # bullmq-demo
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fentwurfhaus.com&up_message=online&down_message=offline&style=flat-square&label=entwurfhaus)
-![GitHub Repo stars](https://img.shields.io/github/stars/brifiction/bullmq-demo?style=flat-square)
-
 <p align="center">
   <img width="auto" height="100px" src="public/bull.png" />
 </p>
